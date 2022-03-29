@@ -1,1 +1,2 @@
-Archivo README de este repositorio. Nada por ahora.
+Archivo README de este repositorio. 
+Lamentablemente no tuve el tiempo suficiente para realizar este diagnóstico. El poco tiempo que le dediqué fue poco fructífero debido a que obtuve un error de memoria con Python que nunca había tenido y que no fui capaz de solucionar en ese plazo. Considero que, sin querer quitarme responsabilidad, esta actividad fue avisada con poca anticipación, por más corta y simple que fuera, y ojalá las actividades del semestre sean avisadas con mayor claridad y antelación.
